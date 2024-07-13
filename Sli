@@ -1,0 +1,7 @@
+echo "# gh-repo-clone-Zz-ww-SadTalker-Video-Lip-Sync" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/slim-daniel/gh-repo-clone-Zz-ww-SadTalker-Video-Lip-Sync.git
+git push -u origin main
